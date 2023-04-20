@@ -11,3 +11,6 @@ ASTRSM here, My name is Dhafa Defrita and I'm currently studying Information Sys
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ASTRSM&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
