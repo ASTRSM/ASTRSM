@@ -15,20 +15,20 @@ ASTRSM here, My name is Dhafa Defrita and I'm currently studying Information Sys
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 January 2023 - To: 15 May 2023
+From: 25 January 2023 - To: 16 May 2023
 
-Total Time: 125 hrs 44 mins
+Total Time: 128 hrs 23 mins
 
-JavaScript       67 hrs 59 mins  >>>>>>>>>>>>>>-----------   54.08 %
-PHP              23 hrs          >>>>>--------------------   18.30 %
-Blade Template   17 hrs 57 mins  >>>>---------------------   14.28 %
-CSS              6 hrs 34 mins   >------------------------   05.23 %
-TypeScript       2 hrs 34 mins   >------------------------   02.05 %
-JSON             2 hrs 13 mins   -------------------------   01.77 %
-Markdown         1 hr 49 mins    -------------------------   01.46 %
-HTML             1 hr 11 mins    -------------------------   00.94 %
-Bash             51 mins         -------------------------   00.69 %
-SCSS             50 mins         -------------------------   00.67 %
+JavaScript       69 hrs 56 mins  >>>>>>>>>>>>>>-----------   54.48 %
+PHP              23 hrs          >>>>---------------------   17.92 %
+Blade Template   17 hrs 57 mins  >>>----------------------   13.99 %
+CSS              6 hrs 45 mins   >------------------------   05.27 %
+TypeScript       2 hrs 34 mins   >------------------------   02.01 %
+JSON             2 hrs 13 mins   -------------------------   01.74 %
+Markdown         1 hr 49 mins    -------------------------   01.43 %
+HTML             1 hr 41 mins    -------------------------   01.32 %
+Bash             51 mins         -------------------------   00.67 %
+SCSS             50 mins         -------------------------   00.66 %
 ```
 
 <!--END_SECTION:waka-->
