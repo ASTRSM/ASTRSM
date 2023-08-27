@@ -15,7 +15,7 @@ ASTRSM here, My name is Dhafa Defrita and I'm currently studying Information Sys
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2023 - To: 24 August 2023
+From: 25 January 2023 - To: 25 August 2023
 
 Total Time: 315 hrs 7 mins
 
