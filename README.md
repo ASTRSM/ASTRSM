@@ -1,9 +1,9 @@
 ## Hi there 👋 こんにちは！！！
-ASTRSM here, My name is Dhafa Defrita and I'm currently studying Information System at Gunadarma University as a student. I'm from Indonesia and currently living in Jakarta. よろしくお願いたします
+ASTRSM here, My name is Dhafa Defrita and I'm an Information Systems graduate. I'm from Indonesia and currently living in Jakarta. よろしくお願いたします
 
 - 🔭 I’m a proficient front-end web developer.
 - 🌱 I’m currently learning Japanese(日本語).
-- 📫 How to reach me: &nbsp;&nbsp;&nbsp;&nbsp;📧[Email](dhafadefrita@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;💼[LinkedIn](https://www.linkedin.com/in/dhafa-defrita-rama-yudistira-9357a9229/)
+- 📫 How to reach me: &nbsp;&nbsp;&nbsp;&nbsp;📧[Email](ddefrito@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;💼[LinkedIn](https://www.linkedin.com/in/dhafa-defrita-rama-yudistira-9357a9229/)&nbsp;&nbsp;&nbsp;&nbsp;👨‍🎨[Portofolio](https://ddefrito.vercel.app/)
 <br>
 <!-- <p align="left">
 <a href="https://github.com/ASTRSM">
