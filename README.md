@@ -1,5 +1,5 @@
 ## Hi there 👋 こんにちは！！！
-ASTRSM here, My name is Dhafa Defrita and I'm an Information Systems graduate. I'm from Indonesia and currently living in Jakarta. よろしくお願いたします
+ASTRSM here, My name is Dhafa Defrito and I'm an Information Systems graduate. I'm from Indonesia and currently living in Jakarta. よろしくお願いたします
 
 - 🔭 I’m a proficient front-end web developer.
 - 🌱 I’m currently learning Japanese(日本語).
