@@ -3,7 +3,7 @@ ASTRSM here, My name is Dhafa Defrito and I'm an Information Systems graduate. I
 
 - 🔭 I’m a proficient front-end web developer.
 - 🌱 I’m currently learning Japanese(日本語).
-- 📫 How to reach me: &nbsp;&nbsp;&nbsp;&nbsp;📧[Email](ddefrito@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;💼[LinkedIn](https://www.linkedin.com/in/dhafa-defrita-rama-yudistira-9357a9229/)&nbsp;&nbsp;&nbsp;&nbsp;👨‍🎨[Portofolio](https://ddefrito.vercel.app/)
+- 📫 How to reach me: &nbsp;&nbsp;&nbsp;&nbsp;📧[Email](ddefrito@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;💼[LinkedIn](https://www.linkedin.com/in/dhafad)&nbsp;&nbsp;&nbsp;&nbsp;👨‍🎨[Portofolio](https://ddefrito.vercel.app/)
 
 <br>
 
