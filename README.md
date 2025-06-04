@@ -8,9 +8,9 @@ ASTRSM here, My name is Dhafa Defrito and I'm an Information Systems graduate. I
 <br>
 
 <div align="left">
-  <img src="https://media1.tenor.com/m/F96DSPtSiSgAAAAd/isekaijoucho-kamitsubaki.gif" height=200 />
-	<a href="https://last.fm/user/nerumaeni"><img src="https://lastfm-recently-played.vercel.app/api?user=nerumaeni&count=3" height=200 /></a>
-</div>
+  <img src="https://media1.tenor.com/m/F96DSPtSiSgAAAAd/isekaijoucho-kamitsubaki.gif" height="300" />
+	<a href="https://last.fm/user/nerumaeni"><img src="https://lastfm-recently-played.vercel.app/api?user=nerumaeni&count=5" height="300" /></a>
+</div=
 
 <!--START_SECTION:waka-->
 
