@@ -15,18 +15,18 @@ ASTRSM here, My name is Dhafa Defrito and I'm an Information Systems graduate. I
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2023 - To: 17 June 2025
+From: 25 January 2023 - To: 18 June 2025
 
-Total Time: 1,432 hrs 50 mins
+Total Time: 1,438 hrs 49 mins
 
-TypeScript                 828 hrs 13 mins >>>>>>>>>>>>>>-----------   57.80 %
-JavaScript                 274 hrs 17 mins >>>>>--------------------   19.14 %
-HTML                       67 hrs 6 mins   >------------------------   04.68 %
-Blade Template             58 hrs 19 mins  >------------------------   04.07 %
-PHP                        49 hrs 26 mins  >------------------------   03.45 %
-CSS                        34 hrs 49 mins  >------------------------   02.43 %
-JSON                       24 hrs 12 mins  -------------------------   01.69 %
-SCSS                       23 hrs          -------------------------   01.61 %
+TypeScript                 833 hrs 48 mins >>>>>>>>>>>>>>-----------   57.95 %
+JavaScript                 274 hrs 17 mins >>>>>--------------------   19.06 %
+HTML                       67 hrs 6 mins   >------------------------   04.66 %
+Blade Template             58 hrs 19 mins  >------------------------   04.05 %
+PHP                        49 hrs 26 mins  >------------------------   03.44 %
+CSS                        34 hrs 49 mins  >------------------------   02.42 %
+JSON                       24 hrs 37 mins  -------------------------   01.71 %
+SCSS                       23 hrs          -------------------------   01.60 %
 Go                         15 hrs 57 mins  -------------------------   01.11 %
 Markdown                   13 hrs 45 mins  -------------------------   00.96 %
 ```
