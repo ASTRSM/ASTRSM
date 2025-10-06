@@ -15,7 +15,7 @@ ASTRSM here, My name is Dhafa Defrito and I'm an Information Systems graduate. I
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2023 - To: 03 October 2025
+From: 25 January 2023 - To: 05 October 2025
 
 Total Time: 1,705 hrs 22 mins
 
