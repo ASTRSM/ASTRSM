@@ -15,20 +15,20 @@ ASTRSM here, My name is Dhafa Defrito and I'm an Information Systems graduate. I
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2023 - To: 16 September 2026
+From: 25 January 2023 - To: 17 September 2026
 
-Total Time: 2,392 hrs 51 mins
+Total Time: 2,396 hrs 55 mins
 
-TypeScript                 1,593 hrs 43 mins     >>>>>>>>>>>>>>>>>--------   66.60 %
-JavaScript                 297 hrs 48 mins       >>>----------------------   12.45 %
-HTML                       84 hrs 26 mins        >------------------------   03.53 %
-JSON                       81 hrs 38 mins        >------------------------   03.41 %
-Blade Template             58 hrs 19 mins        >------------------------   02.44 %
-SCSS                       52 hrs 40 mins        >------------------------   02.20 %
-CSS                        50 hrs 23 mins        >------------------------   02.11 %
-PHP                        49 hrs 26 mins        >------------------------   02.07 %
-Markdown                   17 hrs 51 mins        -------------------------   00.75 %
-Go                         16 hrs 12 mins        -------------------------   00.68 %
+TypeScript                 1,595 hrs 56 mins     >>>>>>>>>>>>>>>>>--------   66.58 %
+JavaScript                 297 hrs 49 mins       >>>----------------------   12.43 %
+HTML                       84 hrs 26 mins        >------------------------   03.52 %
+JSON                       81 hrs 54 mins        >------------------------   03.42 %
+Blade Template             58 hrs 19 mins        >------------------------   02.43 %
+SCSS                       52 hrs 41 mins        >------------------------   02.20 %
+CSS                        50 hrs 23 mins        >------------------------   02.10 %
+PHP                        49 hrs 26 mins        >------------------------   02.06 %
+Markdown                   17 hrs 51 mins        -------------------------   00.74 %
+.env file                  16 hrs 27 mins        -------------------------   00.69 %
 ```
 
 <!--END_SECTION:waka-->
